@@ -32,6 +32,7 @@
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/responsive-style.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/flexslider.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/layout.css">
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css">
 
 
 	<link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
