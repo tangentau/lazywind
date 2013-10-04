@@ -15,6 +15,9 @@
   <div class="entry-content clearfix">	
 	<?php contango_featured_image(); ?>
 	<?php contango_post_style(); ?>
+	  <div class="entry-meta-bottom">
+		<?php echo contango_post_category() . contango_post_tags(); ?>
+	  </div><!-- .entry-meta -->
   </div> <!-- end .entry-content -->
   
   <?php echo contango_link_pages(); ?>  
